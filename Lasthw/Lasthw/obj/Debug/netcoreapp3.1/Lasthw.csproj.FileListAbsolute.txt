@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\C#\Lasthw\Lasthw\bin\Debug\netcoreapp3.1\Lasthw.exe
+C:\Users\user\OneDrive\Desktop\C#\Lasthw\Lasthw\bin\Debug\netcoreapp3.1\Lasthw.deps.json
+C:\Users\user\OneDrive\Desktop\C#\Lasthw\Lasthw\bin\Debug\netcoreapp3.1\Lasthw.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\C#\Lasthw\Lasthw\bin\Debug\netcoreapp3.1\Lasthw.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Desktop\C#\Lasthw\Lasthw\bin\Debug\netcoreapp3.1\Lasthw.dll
+C:\Users\user\OneDrive\Desktop\C#\Lasthw\Lasthw\bin\Debug\netcoreapp3.1\Lasthw.pdb
+C:\Users\user\OneDrive\Desktop\C#\Lasthw\Lasthw\obj\Debug\netcoreapp3.1\Lasthw.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\C#\Lasthw\Lasthw\obj\Debug\netcoreapp3.1\Lasthw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\C#\Lasthw\Lasthw\obj\Debug\netcoreapp3.1\Lasthw.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\C#\Lasthw\Lasthw\obj\Debug\netcoreapp3.1\Lasthw.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\C#\Lasthw\Lasthw\obj\Debug\netcoreapp3.1\Lasthw.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\C#\Lasthw\Lasthw\obj\Debug\netcoreapp3.1\Lasthw.dll
+C:\Users\user\OneDrive\Desktop\C#\Lasthw\Lasthw\obj\Debug\netcoreapp3.1\Lasthw.pdb
+C:\Users\user\OneDrive\Desktop\C#\Lasthw\Lasthw\obj\Debug\netcoreapp3.1\Lasthw.genruntimeconfig.cache
